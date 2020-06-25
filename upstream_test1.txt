@@ -1,0 +1,9 @@
+% Model:              modelprojet_V1.mph
+% Version:            COMSOL 5.4.0.388
+% Date:               Jun 22 2020, 20:27
+% Dimension:          0
+% Nodes:              1
+% Expressions:        1
+% Description:        Temperature
+% T (K)
+336.83711081892505
